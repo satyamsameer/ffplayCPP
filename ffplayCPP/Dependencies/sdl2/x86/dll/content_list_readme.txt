@@ -1,0 +1,1 @@
+Put SDL dependency dll library "SDL2.dll" 32-bit version 2.0.12 here
