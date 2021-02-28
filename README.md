@@ -9,4 +9,6 @@ Below is the sample screenshot of application -
 
 ![Sample Application Screenshot](https://github.com/satyamsameer/ffplayCPP/blob/master/Screenshots/Screenshot_1.png)
 
+Important Note - Read the "content_list_readme" files and add the listed dependencies to the respective directories before compilation. These dependencies can be found on ffmpeg website URL mentioned above.
+
 Use Visual Studio 14 2015 toolset v140 for C++ or any other IDE according to your preference.
